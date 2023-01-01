@@ -51,5 +51,5 @@ def main():
 
 
 if __name__ == '__main__':
-    tprint('panicatcks')
+    tprint('panicatcks',font='univers')
     main()
